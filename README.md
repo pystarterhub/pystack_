@@ -1,2 +1,2 @@
 # pystack_
-This is the notes i made on python modules
+This is how i learnt python from beginner to pro 
